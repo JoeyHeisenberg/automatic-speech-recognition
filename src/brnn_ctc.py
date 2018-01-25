@@ -3,7 +3,7 @@ import os
 import time
 import sys
 
-sys.path.append('..')
+sys.path.append('..')  # 添加当前目录路径
 
 import numpy as np
 import tensorflow as tf
